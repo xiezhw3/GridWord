@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Macintosh-2.local" name="JumperTest" skipped="0" tests="11" time="0.126" timestamp="2014-08-07T02:35:44">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="ant.file.junitHelloTest" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build.xml" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="ant.file.type.junitHelloTest" value="file" />
+    <property name="lib" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/lib" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/classes" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/usr/local/ant" />
+    <property name="java.runtime.version" value="1.7.0_45-b18" />
+    <property name="user.name" value="wc" />
+    <property name="user.language" value="zh" />
+    <property name="build" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build" />
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib" />
+    <property name="build.test.classes" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build/test/classes" />
+    <property name="build.test.report" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build/test/report" />
+    <property name="ant.project.default-target" value="all" />
+    <property name="ant.project.name" value="junitHelloTest" />
+    <property name="java.version" value="1.7.0_45" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="src" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/src" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build.xml" />
+    <property name="os.version" value="10.9.4" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="24.45-b08" />
+    <property name="ant.library.dir" value="/usr/local/ant/lib" />
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="user.home" value="/Users/wc" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="test" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/test" />
+    <property name="java.library.path" value="/Users/wc/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="gopherProxySet" value="false" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.launch.Launcher -cp :/Users/wc/Documents/junit4/junit-4.10.jar run-test" />
+    <property name="java.class.path" value="/usr/local/ant/lib/ant-launcher.jar:/Users/wc/Documents/junit4/junit-4.10.jar:/usr/local/ant/lib/ant-antlr.jar:/usr/local/ant/lib/ant-apache-bcel.jar:/usr/local/ant/lib/ant-apache-bsf.jar:/usr/local/ant/lib/ant-apache-log4j.jar:/usr/local/ant/lib/ant-apache-oro.jar:/usr/local/ant/lib/ant-apache-regexp.jar:/usr/local/ant/lib/ant-apache-resolver.jar:/usr/local/ant/lib/ant-apache-xalan2.jar:/usr/local/ant/lib/ant-commons-logging.jar:/usr/local/ant/lib/ant-commons-net.jar:/usr/local/ant/lib/ant-jai.jar:/usr/local/ant/lib/ant-javamail.jar:/usr/local/ant/lib/ant-jdepend.jar:/usr/local/ant/lib/ant-jmf.jar:/usr/local/ant/lib/ant-jsch.jar:/usr/local/ant/lib/ant-junit.jar:/usr/local/ant/lib/ant-junit4.jar:/usr/local/ant/lib/ant-launcher.jar:/usr/local/ant/lib/ant-netrexx.jar:/usr/local/ant/lib/ant-swing.jar:/usr/local/ant/lib/ant-testutil.jar:/usr/local/ant/lib/ant.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/lib/tools.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.4 compiled on April 29 2014" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="build.classes" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build/classes" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="java.io.tmpdir" value="/var/folders/cv/bk740k9n6fscb_xm1scjxxlr0000gn/T/" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/Users/wc/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java" />
+    <property name="user.dir" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="/usr/local/ant/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="runTest" value="**/*Test.class" />
+    <property name="build.test" value="/Users/wc/Documents/eclipse/GridWord/GridWorldCode/projects/Jumper/build/test" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="run-test" />
+  </properties>
+  <testcase classname="JumperTest" name="testCanMove1" time="0.102" />
+  <testcase classname="JumperTest" name="testCanMove2" time="0.0" />
+  <testcase classname="JumperTest" name="testCanMov3" time="0.0" />
+  <testcase classname="JumperTest" name="testCanMov4" time="0.0" />
+  <testcase classname="JumperTest" name="testCanMov5" time="0.001" />
+  <testcase classname="JumperTest" name="testCanMov6" time="0.0" />
+  <testcase classname="JumperTest" name="testFlower" time="0.0" />
+  <testcase classname="JumperTest" name="testOtherActor" time="0.0" />
+  <testcase classname="JumperTest" name="testOtherActor2" time="0.0" />
+  <testcase classname="JumperTest" name="testMove" time="0.0" />
+  <testcase classname="JumperTest" name="testMove2" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
